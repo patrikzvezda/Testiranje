@@ -7,4 +7,4 @@ Ovo je treci pokusaj. Dodatak - Ispravka treceg i dodatak cetvrtog pokusaja.
 
 Ovo je cetvrti pokusaj. "Zolak ne zna da igra wow".
 
-Ovo je peti pokusaj. Ispravka i dodatak cetvrtog pokusaja.
+Ovo je peti pokusaj. Ispravka i dodatak cetvrtog pokusaja. Dodatak +++
